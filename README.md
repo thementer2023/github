@@ -1,2 +1,2 @@
-# license.npmjs.com
+
 DomainTAKEOVER
